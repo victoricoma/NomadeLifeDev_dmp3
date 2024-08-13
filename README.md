@@ -1,13 +1,13 @@
 # NomadeLifeDev_dmp3
 Plataforma em React com sistema de SPA e Google Cloud Platform, sistematizado com Firebase e Firestore.
 
-Para documentar o repositório `blogDev_f3m`, que utiliza uma estrutura de desenvolvimento MVC (Model-View-Controller) integrada ao Firebase, Firestore e Authentication, você pode seguir o seguinte guia:
+Para documentar o repositório `NomadeLifeDev_dmp3`, que utiliza uma estrutura de desenvolvimento MVC (Model-View-Controller) integrada ao Firebase, Firestore e Authentication, você pode seguir o seguinte guia:
 
-## Documentação do Projeto `blogDev_f3m`
+## Documentação do Projeto `NomadeLifeDev_dmp3`
 
 ### 1. Visão Geral do Projeto
 
-**`blogDev_f3m`** é um sistema de blog desenvolvido com base na arquitetura MVC, utilizando Firebase como backend para autenticação de usuários e Firestore para gerenciamento de dados. Este repositório contém todo o código fonte necessário para criar, editar e gerenciar postagens de blog, assim como o sistema de login e registro de usuários.
+**`NomadeLifeDev_dmp3`** é um sistema de blog desenvolvido com base na arquitetura MVC, utilizando Firebase como backend para autenticação de usuários e Firestore para gerenciamento de dados. Este repositório contém todo o código fonte necessário para criar, editar e gerenciar postagens de blog, assim como o sistema de login e registro de usuários.
 
 ### 2. Estrutura do Projeto
 
@@ -19,7 +19,7 @@ A estrutura do projeto segue o padrão MVC, que é dividido nas seguintes pastas
 
 ### 3. Dependências do Projeto
 
-O projeto `blogDev_f3m` utiliza as seguintes dependências principais:
+O projeto `NomadeLifeDev_dmp3` utiliza as seguintes dependências principais:
 
 - **Firebase SDK**: Para integração com os serviços do Firebase.
 - **Firestore**: Para armazenamento e consulta de dados.
@@ -33,8 +33,8 @@ Para configurar o projeto localmente, siga os passos abaixo:
 1. **Clone o Repositório**:
 
    ```bash
-   git clone https://github.com/victoricoma/blogDev_f3m.git
-   cd blogDev_f3m
+   git clone https://github.com/victoricoma/NomadeLifeDev_dmp3.git
+   cd NomadeLifeDev_dmp3
    ```
 
 2. **Instale as Dependências**:
@@ -194,7 +194,7 @@ export const AuthController = {
 
 ### 7. Contribuição
 
-Se você deseja contribuir com o projeto `blogDev_f3m`, siga as etapas abaixo:
+Se você deseja contribuir com o projeto `NomadeLifeDev_dmp3`, siga as etapas abaixo:
 
 1. **Fork o Repositório**.
 2. **Crie uma Nova Branch**: `git checkout -b feature/NomeDaFeature`.
