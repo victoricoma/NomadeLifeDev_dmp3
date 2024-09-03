@@ -1,5 +1,9 @@
 {
   "projects": {
+<<<<< daniele
     "default": "nomadelife-dn"
+=======
+    "default": "nomadelife-vsi"
+
   }
 }
