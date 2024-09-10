@@ -1,7 +1,9 @@
 # NomadeLifeDev_dmp3
 Plataforma em React com sistema de SPA e Google Cloud Platform, sistematizado com Firebase e Firestore.
+![LogoDev](https://github.com/user-attachments/assets/0073bc76-8ef0-4d2b-91dc-7f71c3466971)
 
 Para documentar o repositório `NomadeLifeDev_dmp3`, que utiliza uma estrutura de desenvolvimento MVC (Model-View-Controller) integrada ao Firebase, Firestore e Authentication, você pode seguir o seguinte guia:
+![LogoQuadrado](https://github.com/user-attachments/assets/be64abd7-2738-4442-a91a-340632096c12)
 
 ## Documentação do Projeto `NomadeLifeDev_dmp3`
 
