@@ -1,0 +1,22 @@
+.about{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.about p{
+    color: #aaa;
+    margin-bottom: 2em;
+}
+
+.about a{
+    display: block;
+    margin-top: 15px;
+    padding: 10px;
+}
+.btn{
+    background-color:darkturquoise;
+    width: 120px;
+    border-radius: 10px;
+}
